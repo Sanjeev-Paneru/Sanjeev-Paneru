@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sanjeev 👋
 
-<!--
-**Sanjeev-Paneru/Sanjeev-Paneru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about coding, building web apps, and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** JavaScript, TypeScript, Python  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Databases:** MongoDB, PostgreSQL  
+- **Other Tools:** Git, GitHub, VS Code, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced Tailwind CSS & UI design  
+- Clean Architecture & scalable backend systems  
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/Sanjeev-Paneru)  
+- [Portfolio](https://your-portfolio-link)  
+
+## 📊 GitHub Stats
+![Sanjeev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanjeev-Paneru&show_icons=true&theme=blue-green)
+
+## 🏆 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-Paneru&layout=compact&theme=blue-green)
