@@ -14,7 +14,10 @@ I'm a Computer Science student passionate about coding, building web apps, and l
 - Clean Architecture & scalable backend systems  
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/Sanjeev-Paneru)  
+- [LinkedIn](www.linkedin.com/in/
+sanjeevpaneru
+Vanity URL name
+)  
 - [Portfolio](https://your-portfolio-link)  
 
 ## 📊 GitHub Stats
