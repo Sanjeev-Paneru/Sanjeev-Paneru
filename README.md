@@ -1,46 +1,88 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQzMTB5a29waGVmZ3ZibW1zNmU4MW1tNTZvdTdxMXl1NjVmbzF2ZCZlcD12MV9pbnRlcm5hbF9naWZfY3JlYXRlZCZjdD1z/hULM55pA56mQk77w5g/giphy.gif" width="50px" alt="Waving Hand"/>
-  <h1>Hello, I'm Sanjeev Paneru!</h1>
-  <h3>A passionate Frontend Developer building seamless user experiences from Nepal 🇳🇵.</h3>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQzMTB5a29waGVmZ3ZibW1zNmU4MW1tNTZvdTdxMXl1NjVmbzF2ZCZlcD12MV9pbnRlcm5hbF9naWZfY3JlYXRlZCZjdD1z/hULM55pA56mQk77w5g/giphy.gif" width="60px"/>
+
+# ✦ Sanjeev Paneru ✦
+
+### `< Frontend Developer />` · Building beautiful digital experiences from the hills of Nepal 🇳🇵
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=React+%7C+TypeScript+%7C+Tailwind+CSS;Turning+ideas+into+pixel-perfect+UIs;Full-Stack+Explorer+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-🛠️ Tech Stack & Toolkit
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif"/>
 
-*Focusing on the core tools I use to bring interfaces to life.*
+## 🧑‍💻 About Me
 
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+- 🔭 Currently crafting **pharmacy inventory systems** & SaaS UIs
+- 🌱 Deep-diving into **Next.js 14**, **DDD architecture** & **Redux Toolkit**
+- 💡 I love turning complex problems into **clean, intuitive interfaces**
+- 🎯 Goal: Ship products that feel as good as they look
+- ⚡ Fun fact: I debug best with lo-fi music playing 🎧
 
 ---
 
- 📈 GitHub Stats
+## 🛠️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev-paneru&layout=compact&theme=vision-friendly-dark" alt="Sanjeev's Top Languages" />
-</p>
+> *The tools I wield daily to craft seamless user experiences*
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
- 🤝 Let's Connect!
+## 📊 GitHub at a Glance
 
-*Feel free to reach out—I'm always open to discussing new projects and opportunities.*
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanjeev-paneru" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeev-paneru" height="30" width="40" /></a>
-  <a href="https://fb.com/sanjeev paneru" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjeev paneru" height="30" width="40" /></a>
-  <a href="https://instagram.com/sanjeev-paneru" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjeev-paneru" height="30" width="40" /></a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sanjeev-paneru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev-paneru&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanjeev-paneru&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Let's Build Something Together
+
+<div align="center">
+
+*I'm always open to exciting projects, collaborations, and conversations.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjeev-paneru)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sanjeev-paneru)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/sanjeevpaneru)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sanjeev-paneru&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+*"Code is poetry written for machines, but read by humans."* ✨
+
+</div>
